@@ -1,0 +1,23 @@
+- name: Ask
+  description: "Define and scope problem and solution"
+  color: #c9ecff
+
+- name: Explore
+  description: "Explore and document data to increase understanding"
+  color: #f0f29b
+
+- name: Experiment
+  description: "Build features and train models"
+  color: #8569c6
+
+- name: Data
+  description: "Get and transform data"
+  color: #1c587c
+
+- name: Deploy
+  description: "Register, package, and deploy model"
+  color: #f79499
+
+- name: Communicate
+  description: "Write reports and create dashboards"
+  color: #f9f345
