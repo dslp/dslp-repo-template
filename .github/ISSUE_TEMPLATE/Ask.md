@@ -9,18 +9,34 @@ assignees: ''
 
 ## Problem Statement
 
-### Current State
+Describe the problem you are trying to solve.
 
 ### Desired Outcome
+
+Describe what outcome will be enabled if successful? What about the existing process will change as a result of your success? How will it change?
+
+### Current State
+
+Describe the current state and it's shortcomings. Why does this need to change?
 
 ## Success Criteria
 
 ### Impact
 
+- To the extent possible, estimate the impact of project if successful.
+- How much of an improvement do you need for this to be valuable?
+
 ### Metrics
+
+- Describe the metrics you will use to measure success.
+- Be specific in how a metric is defined for the purpose of this problem.
+- This may contain a combination of business metrics and technical metrics
+- This should also include metrics that we wish to balance against our primary metric.
 
 
 ### Constraints
+
+- Describe any constraints that the solution must consider.
 
 ## Solution architecture
 
@@ -30,17 +46,23 @@ assignees: ''
 
 ### Datasets
 
-## Relevant Knowledge
+- link to datasets and/or descriptions either from repo or existing data catalog
+- link to data acquisition issues
 
+## Understanding and Exploration
+
+- links to explore issues
 - links to docs/notebooks/knowledge base that inform your solution based on the work done in the project.
 
-## Approaches
+## Approaches and Experiments
+
+- links to experiment issues
 
 ## See Also
 
 ### Background Info
 
-- Link to docs or sources with relevant research either from the business or external sources.
+- Link to docs or sources with relevant research, examples, documents, etc. from internal or external sources.
 
 ### Related projects
 

@@ -20,15 +20,15 @@ Description of the scope of your exploration including relevant datasets and pro
 
 Describe the overall content of your exploration effort.
 
-For each piece of insight, briefly describe what you uncovered.
+For each key insight, briefly describe what you uncovered.
 
 ### Insight 1
 
-Brief description of insight
+Brief description of insight. Link to artifact.
 
 ### Insight 2
 
-Brief Description of insight.
+Brief Description of insight. Link to artifact.
 
 ## Next Steps
 

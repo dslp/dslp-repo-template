@@ -11,7 +11,11 @@ assignees: ''
 
 ## Solution Description
 
-What is the goal of this experiment? What metric are you trying to model?
+What is the goal of this experiment? 
+
+## Metrics 
+
+What metric are you trying to model? Define this metric if it is not a standard metric.
 
 ## Assumptions
 
@@ -19,6 +23,6 @@ Describe any assumptions you are making in building this model. Describe what pr
 
 ## Results
 
-### Result Status: [Success|Tabled|Abandoned]
+### Result Status: [Success|On Hold|Abandoned]
 
-Summarize the results of this experiment.
+Summarize the results of this experiment. Link to experiment tracking source if applicable. Link to pull request where experiment was tried.
