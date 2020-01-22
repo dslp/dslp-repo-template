@@ -15,9 +15,9 @@
   color: #1c587c
 
 - name: Deploy
-  description: "Register, package, and deploy model"
+  description: "Register, package, and deploy model and productionalize features"
   color: #f79499
 
 - name: Communicate
-  description: "Write reports and create dashboards"
+  description: "Write reports, create dashboards, summarize findings, etc"
   color: #f9f345
