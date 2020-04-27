@@ -1,7 +1,7 @@
 ---
 name: Data Acquistion
 about: Describe data requirements for provisioning an existing data set
-title: ''
+title: 'Get [name] Dataset'
 labels: Data
 assignees: ''
 
@@ -27,3 +27,5 @@ If you know where the data is sourced from, list it here. If you know the specif
 If there is a data catalogue entry or existing data dictionary for this dataset, link to it here.
 
 ## Known Issues
+
+Describe known issues with the dataset pertinent to this problem. Once a solution is determined, you should update the docs based on what you find.
