@@ -1,7 +1,7 @@
 ---
 name: Experiment
 about: Describe experiments and approaches for solving current problem
-title: 'Experiment: [descriptive name]'
+title: ''
 labels: Experiment
 assignees: ''
 
