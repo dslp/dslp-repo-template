@@ -21,6 +21,8 @@ Describe the current state and it's shortcomings. Why does this need to change?
 
 ## Success Criteria
 
+Describe what requirements need to be met in order to consider the project a success. 
+
 ### Impact
 
 - To the extent possible, estimate the impact of project if successful.
@@ -38,7 +40,7 @@ Describe the current state and it's shortcomings. Why does this need to change?
 
 - Describe any constraints that the solution must consider.
 
-## Solution architecture
+## Solution Architecture
 
 [Solution Architecture Description](docs/solution-architecture.md)
 
@@ -52,7 +54,7 @@ Describe the current state and it's shortcomings. Why does this need to change?
 ## Understanding and Exploration
 
 - links to explore issues
-- links to docs/notebooks/knowledge base that inform your solution based on the work done in the project.
+- links to docs/notebooks/knowledge base that inform your solution based on the work done in the project
 
 ## Approaches and Experiments
 
@@ -62,8 +64,8 @@ Describe the current state and it's shortcomings. Why does this need to change?
 
 ### Background Info
 
-- Link to docs or sources with relevant research, examples, documents, etc. from internal or external sources.
+- Link to docs or sources with relevant research, examples, documents, etc. from internal or external sources
 
-### Related projects
+### Related Projects
 
 - Link to any related projects or repos that you found during research portion of project
