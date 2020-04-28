@@ -14,8 +14,12 @@
   description: Get and transform data
   color: #1c587c
 
+- name: Model
+  description: Prepare model for deployment
+  color: #0b4e82
+  
 - name: Deploy
-  description: Register, package, and deploy model and productionalize features
+  description: Register, package, and deploy model
   color: #f79499
 
 - name: Communicate
