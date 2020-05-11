@@ -9,7 +9,10 @@ assignees: ''
 
 ## Description
 
+***Ask Reference:*** #link-to-ask-issue
+
 What is the goal of this experiment?  How are you attempting to solve the problem.
+
 
 ## Metrics 
 
@@ -21,4 +24,8 @@ Describe any assumptions you are making in building this model. Describe what pr
 
 ## Results
 
-Summarize the results of this experiment. Link to experiment tracking source if applicable. Link to pull request where experiment was tried.
+***Experiment History:*** [Link to experiment tracking source if applicable]  
+***Related PR:*** [Link to pull request where experiment was tried]
+
+Summarize the results of this experiment (tldr). 
+
