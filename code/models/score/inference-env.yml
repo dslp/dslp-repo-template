@@ -1,4 +1,0 @@
-name: inference-env.yml
-dependencies:
-- pip:
-  - azureml-sdk
